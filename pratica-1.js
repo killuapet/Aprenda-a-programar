@@ -1,5 +1,5 @@
-nome: Gabriela
-email: bscs.gabriela@gmail.com
-profissão: estudante
-idade: 18 anos
-local que quer conhecer: Japão
+let nome = "Gabi"
+let email = "bscs.gabriela@gmail.com"
+let profissao = "estudante"
+let idade = 18
+let viagemDosSonhos = "Japao"
